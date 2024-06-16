@@ -1,0 +1,14 @@
+.heading {
+    background-color: aliceblue;
+    color: indigo;
+    text-align: center;
+}
+
+.list {
+    background-color: beige;
+    color: crimson;
+    text-align: center;
+    stroke: black;
+    stroke-width: 2px;
+    
+}
